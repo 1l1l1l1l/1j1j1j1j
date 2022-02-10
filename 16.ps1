@@ -1,1 +1,0 @@
-[System.Runtime.InteropServices.Marshal]::Copy($iivif, 0, $jwvlvg, 6)
