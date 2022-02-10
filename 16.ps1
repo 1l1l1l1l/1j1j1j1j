@@ -1,0 +1,1 @@
+[System.Runtime.InteropServices.Marshal]::Copy($pzste, 0, $nbfpbs, 6)
